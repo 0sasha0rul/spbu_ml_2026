@@ -1,1 +1,4 @@
-data/
+**/data/
+rec_sys_project/artifacts
+rec_sys_project/mlruns
+rec_sys_project/streamlit
